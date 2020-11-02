@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '3306',
+    'database_name' => 'music_shop_db',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'GmmvVyrrXfs2eWBst9IvWojJLmioIwxbsseKLZes7cEtbchI0GQuf2wa',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-11-01',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'gv1zW1fKquCJQxNoIkRCQh7XhrqpozxB9Yxvmf7YraSWzDbd4rnEe0Um',
+    'cookie_iv' => '3E1voWtH',
+    'new_cookie_key' => 'def000009038dbaaf5e5a6d7f13a4dd0cd0cdc8f932a5e03ac52b5481455fc338321e8a741b6f6cc7ec03e1998455b17cb5621502469872a66e60615482bd564dce896d2',
+  ),
+);
